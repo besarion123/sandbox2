@@ -9,7 +9,7 @@ const styles = {
 
 const App = () => (
   <div style={styles}>
-    <Hello x="beso" />
+    <Hello x="beso2" />
     <h2>Start editing to see some magic happen {'\u2728'}</h2>
     <h1>reactjs testing...</h1>
   </div>
