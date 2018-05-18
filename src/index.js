@@ -19,7 +19,6 @@ const App = () => (
     </MuiThemeProvider>
   </div>
   
-
 );
 
 render(<App />, document.getElementById('root'));
